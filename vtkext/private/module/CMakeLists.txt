@@ -85,6 +85,7 @@ set(classes
   vtkF3DInteractorEventRecorder
   vtkF3DInteractorStyle
   vtkF3DMemoryMesh
+  vtkF3DMeshOptimizer
   vtkF3DMetaImporter
   vtkF3DNamedColors
   vtkF3DNoRenderWindow

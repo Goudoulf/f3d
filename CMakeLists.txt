@@ -60,6 +60,7 @@ find_package(VTK 9.5.0 REQUIRED
     CommonCore
     CommonDataModel
     CommonExecutionModel
+	FiltersCore
     FiltersGeneral
     FiltersGeometry
     ImagingCore

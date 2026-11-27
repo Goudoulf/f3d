@@ -16,6 +16,7 @@ DEPENDS
   f3d::vtkext
 PRIVATE_DEPENDS
   VTK::CommonExecutionModel
+  VTK::FiltersCore
   VTK::FiltersGeneral
   VTK::FiltersGeometry
   VTK::IOXML
